@@ -1,0 +1,23 @@
+{
+    "name": "weirin2/wechat",
+    "description": "微灵软件的微信SDK",
+    "keywords": [
+        "微灵软件",
+        "微信",
+        "微信SDK"
+    ],
+    "authors": [
+        {
+            "name": "lee",
+            "email": "349238652@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Weirin\\Wechat\\": "src/"
+        }
+    }
+}
