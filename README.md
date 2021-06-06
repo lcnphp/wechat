@@ -6,7 +6,7 @@
 ## Installation
 
 ```shell
-$ composer require "weirin/wechat:~1.0" -vvv
+$ composer require "weirin2/wechat:~1.0" -vvv
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ $ composer require "weirin/wechat:~1.0" -vvv
 ```php
 <?php
 
-use Weirin\Jwt;
+use Weirin\Wechat;
 
 
 ```
